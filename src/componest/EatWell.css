@@ -1,0 +1,48 @@
+.aline {
+    align-items: center;
+}
+
+.num {
+    color: white;
+    background: #5153F5;
+    padding: .6rem 1rem;
+    border-radius: 50%;
+}
+
+.num div{
+    display: flex;
+
+}
+.recipe{
+    width: 60rem;
+}
+.conten{
+    align-items: center;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+}
+
+.pad{
+    padding-left: 26%;
+    font-size: 4rem;
+    
+}
+
+.vidioback{
+    /* opacity: 0.3; */
+    background-color: black;
+    height: 50rem;
+    background: rgba(73, 75, 73)
+    
+}
+.close{
+    width: 2rem;
+    margin-left: 85%;
+    justify-content: right;
+    
+
+}
+.vidiocss{
+    align-items: center;
+}

@@ -1,0 +1,26 @@
+.Foods h1{
+font-size: 52px;
+font-weight: 700;
+/* line-height: 68px; */
+/* text-align: left; */
+
+
+}
+.Foods{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+
+}
+img{
+    cursor: pointer;
+}
+.color{
+    color: #5153F5;
+    font-size: 21px;
+    font-weight: 600;
+    line-height: 27px;
+    letter-spacing: 0em;
+    text-align: left;
+    }

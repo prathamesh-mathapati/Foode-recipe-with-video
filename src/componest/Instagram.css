@@ -1,0 +1,27 @@
+.Instagram{
+padding-top: 10rem;
+justify-content: center;
+display: flex;
+gap:2rem}
+
+.Inspired{
+    padding-top: 2rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.boder form{
+    border-bottom: 5px solid black !important;
+}
+.inputS{
+    border: none;
+    outline: none;
+}
+.Subscribe{
+    border-radius: 25px;
+    background-color: black;
+
+}
+.stay{
+    width: 30rem;
+}
