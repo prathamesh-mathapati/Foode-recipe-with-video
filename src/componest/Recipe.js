@@ -20,19 +20,19 @@ const Recipe = () => {
                 <img src={`.${newData.img_url}`} className="card-img-top w-50" alt="..." onClick={() => { setvideo(true) }} />
                 <div className="card-body aline">
                     <h3 className="card-title pb-3 "><b>Recipe</b></h3>
-                    <h5 className="card-text"> <b classNameName="num"> 1</b>
+                    <h5 className="card-text"> <b className="num"> 1</b>
                         &nbsp; Step 1 title</h5>
-                    <div classNameName="px-5 ">
+                    <div className="px-5 ">
                         <p className="card-text recipe pb-5 ">Aenean vulputate eleifend tellus aenean leo ligula porttitor eu consequat vitae, eleifend ac, enim aliquam lorem ante dapibus in viverra quis.</p></div>
 
-                    <h5 className="card-text"> <b classNameName="num"> 2</b>
+                    <h5 className="card-text"> <b className="num"> 2</b>
                         &nbsp; Step 2 title</h5>
-                    <div classNameName="px-5">
+                    <div className="px-5">
                         <p className="card-text recipe pb-5 ">Aenean vulputate eleifend tellus aenean leo ligula porttitor eu consequat vitae, eleifend ac, enim aliquam lorem ante dapibus in viverra quis.</p></div>
 
-                    <h5 className="card-text"> <b classNameName="num"> 3</b>
+                    <h5 className="card-text"> <b className="num"> 3</b>
                         &nbsp; Step 3 title</h5>
-                    <div classNameName="px-5">
+                    <div className="px-5">
                         <p className="card-text recipe pb-5 ">Aenean vulputate eleifend tellus aenean leo ligula porttitor eu consequat vitae, eleifend ac, enim aliquam lorem ante dapibus in viverra quis.</p></div>
                 </div>
             </div>}
